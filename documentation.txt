@@ -1,0 +1,22 @@
+--NOTES--
+--!-- class ="d-none (Hidden Button Default Value) d-lg-block (Show Button  in Large Media)"
+--!-- class= "text-white-50"   class= "text-black-50"   
+--!-- col-sm-12 col-md-6 col-lg-3
+--!-- list-unstyled  / text-decoration-none
+
+
+--!-- Social Media Colors : Visit Website (Lockedown SEO)
+https://www.lockedownseo.com/social-media-colors/
+
+--ROADMAP--
+1- Download Bootstrap 5
+2- Download Fontawsome 6
+3- Create NavBar
+4- Create Home
+5- Create Services
+6- Create Destinations
+7- Create About Us
+8- Create Team 
+9- Create Bond
+10- Create Blog
+11- Create Contact
